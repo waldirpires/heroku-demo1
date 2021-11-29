@@ -1,0 +1,7 @@
+GET http://localhost:8080/hello
+
+###
+GET https://floating-sea-62967.herokuapp.com/teste2
+
+###
+GET https://fathomless-gorge-13737.herokuapp.com:8443/hello2
